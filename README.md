@@ -1,62 +1,132 @@
-# Lokatrend (LOKA) – Community Experiment Token
+# Lokatrend (LOKA)
 
-## 🌟 Visi
-LOKA hadir sebagai **eksperimen komunitas digital di jaringan Solana** yang transparan, fair, dan fokus pada holder serius.  
-Tujuannya: membangun komunitas yang aktif, belajar dari distribusi token nyata, dan menyiapkan pondasi untuk fase selanjutnya.  
+Lokatrend (LOKA) adalah **token komunitas** yang dibangun di jaringan **Solana**, dirancang untuk pertumbuhan jangka panjang berbasis aktivitas nyata, transparansi, dan keberlanjutan komunitas.
 
-**Catatan:** LOKA bukan token investasi atau janji keuntungan.
+LOKA **bukan produk investasi**, bukan skema cepat kaya, dan tidak menjanjikan keuntungan. Token ini berfungsi sebagai alat alignment komunitas, bukan sebagai sumber pendanaan proyek.
 
 ---
 
-## 🎯 Misi
-1. **Menguji distribusi token komunitas**  
-   Memahami bagaimana token beredar dan diterima di komunitas awal tanpa janji profit.
+## 🌐 Official Links
 
-2. **Menyaring holder yang committed**  
-   Menggunakan mekanisme sederhana seperti **burn-to-claim** untuk fokus pada peserta serius.
-
-3. **Transparansi penuh**  
-   Semua supply, burn, dan distribusi tercatat on-chain. Tidak ada manipulasi atau janji palsu.
-
-4. **Mendukung aktivitas nyata**  
-   Token tidak menggantikan uang proyek. Semua reward dan operasional didukung oleh aktivitas riil, bukan hype semata.
-
-5. **Menjadi dasar untuk pengembangan jangka panjang**  
-   Jika eksperimen berhasil, komunitas dapat berkembang dan LOKA bisa berpindah ke DEX atau memiliki utilitas lebih luas di fase berikutnya.
+- 🌍 Whitepaper: https://lokatrend.github.io/LOKA/
+- 💬 Telegram: https://t.me/lokatrend_loka
+- 🧩 Discord: https://discord.gg/sPADHu7d
 
 ---
 
-## ⚡ Prinsip Utama
-- **Fair & Open:** Semua peserta bisa ikut tanpa privilage khusus  
-- **Risiko jelas:** Semua partisipan sadar risiko dan tidak ada janji keuntungan  
-- **Eksperimen:** Fase awal untuk validasi komunitas & narasi  
-- **Komunitas lebih penting dari harga:** Fokus pada partisipasi aktif dan value creation
+## 📌 Token Information
+
+- **Token Name:** Lokatrend  
+- **Symbol:** LOKA  
+- **Blockchain:** Solana  
+- **Total Supply:** 10,000,000 LOKA  
+- **Supply Type:** Fixed Supply  
+
+Jumlah token **tidak dapat ditambah**.  
+Setiap proses burn akan mengurangi supply secara **permanen**.
 
 ---
 
-## 🛠️ Mekanisme Burn-to-Claim
-1. Holder ingin klaim reward → **burn token mereka di pump.fun**  
-2. Project memverifikasi burn on-chain  
-3. Reward dikirim dari **wallet project**  
-4. Supply berkurang → spekulan tersaring → holder serius dapat manfaat  
+## 🧠 Core Tokenomics Principles
 
-**Catatan:** Reward berasal dari **supply yang dikuasai project**, bukan dari token yang beredar di pump.fun.
-
----
-
-## 📌 Risiko & Disclaimer
-- Volatilitas tinggi di pump.fun  
-- Tidak ada jaminan utilitas token  
-- Partisipasi sepenuhnya **risiko pribadi**  
-- Token reward dari **wallet project**, tidak otomatis di platform  
+1. Token **bukan uang proyek**
+2. Dana proyek berasal dari **aktivitas nyata (Affiliate)**
+3. Token berfungsi sebagai **alignment tool komunitas**
+4. **Tidak ada janji profit atau profit sharing**
 
 ---
 
-## 🔗 Link Terkait
-- Whitepaper lengkap: [https://lokatrend.github.io/LOKA/](https://lokatrend.github.io/LOKA/)  
-- Telegram komunitas: [https://t.me/lokatrend_loka](https://t.me/lokatrend_loka)  
+## 📊 Token Distribution (100%)
+
+| Alokasi | Persentase | Jumlah |
+|------|-----------|--------|
+| Market & Liquidity | 60% | 6,000,000 LOKA |
+| Project / Operational | 20% | 2,000,000 LOKA |
+| Affiliate Incentive Pool | 6% | 600,000 LOKA |
+| Community & Airdrop | 4% | 400,000 LOKA |
+| Burn Reserve | 10% | 1,000,000 LOKA |
+
+### 🔥 Burn Reserve
+Token ini **tidak dijual ke market** dan disiapkan khusus untuk burn bertahap dan permanen.
 
 ---
 
-**Inti:**  
-LOKA adalah **eksperimen komunitas yang jujur, transparan, dan fair**, dengan tujuan membangun dasar komunitas dan distribusi token yang sehat sebelum masuk fase lebih serius.
+## 💧 Liquidity Mechanism
+
+Liquidity ditambahkan **secara bertahap** berdasarkan kondisi market, bukan jadwal tetap.
+
+### Genesis Liquidity (Launch)
+- **0.5 SOL**
+- **3,000,000 LOKA**
+
+Sisa alokasi market disimpan di **Market Reserve Wallet** dan hanya digunakan untuk penambahan liquidity dengan rasio harga market saat itu.
+
+---
+
+## 💸 Project Cash Flow
+
+Lokatrend memiliki **pemasukan nyata** dari Affiliate Program internal, meliputi:
+- Konten affiliate
+- Promosi produk
+- Omzet penjualan
+
+Proyek **tidak bergantung pada donasi** dan **tidak menggunakan iuran komunitas**.
+
+---
+
+## 🔁 Affiliate → Buyback → Burn Model
+
+Pembagian omzet affiliate:
+- **70%** Operasional & pengelola akun
+- **30%** Buyback token LOKA
+
+Alur:
+1. Affiliate menghasilkan omzet  
+2. 30% omzet digunakan untuk membeli LOKA di market  
+3. Token hasil buyback dikirim ke **burn address**
+
+---
+
+## 👛 Wallet Structure
+
+- Liquidity Wallet  
+- Market Reserve Wallet  
+- Project / Operational Wallet  
+- Affiliate Revenue Wallet  
+- Buyback Wallet  
+- Burn Wallet (dead address)  
+- Incentive Pool Wallet  
+
+Seluruh wallet bersifat **publik** dan dapat diverifikasi secara on-chain di jaringan Solana.
+
+---
+
+## 🔍 Transparency
+
+- Seluruh transaksi dilakukan **on-chain**
+- Laporan aktivitas dilakukan secara **berkala**
+- Tidak ada mekanisme tersembunyi
+
+---
+
+## ⚠️ Disclaimer
+
+Lokatrend (LOKA) **bukan produk investasi**, bukan saham, dan tidak menjanjikan keuntungan.
+
+Harga token dapat naik, turun, atau stagnan tergantung:
+- Kondisi market
+- Aktivitas komunitas
+
+Partisipasi bersifat **sukarela** dan seluruh risiko ditanggung masing-masing individu.  
+Gunakan dana yang **bukan kebutuhan hidup**.
+
+---
+
+## 🚀 Closing
+
+Lokatrend (LOKA) dibangun secara:
+- Transparan  
+- Bertahap  
+- Berbasis kontribusi nyata  
+
+Keberlanjutan proyek sepenuhnya ditentukan oleh **aktivitas dan partisipasi komunitas**.
