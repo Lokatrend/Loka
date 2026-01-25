@@ -56,7 +56,7 @@ Token ini **tidak dijual ke market** dan disiapkan khusus untuk burn bertahap da
 Liquidity ditambahkan **secara bertahap** berdasarkan kondisi market, bukan jadwal tetap.
 
 ### Genesis Liquidity (Launch)
-- **0.5 SOL**
+- **50 USDC**
 - **3,000,000 LOKA**
 
 Sisa alokasi market disimpan di **Market Reserve Wallet** dan hanya digunakan untuk penambahan liquidity dengan rasio harga market saat itu.
